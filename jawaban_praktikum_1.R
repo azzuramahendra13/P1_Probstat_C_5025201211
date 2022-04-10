@@ -245,5 +245,6 @@ hist(data, breaks=50,
      )
 
 # c)
+
 var(data)
 
